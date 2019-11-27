@@ -6,5 +6,5 @@ This repo is intended to save all useful scripts created by me.
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| python3 getOptOut.py | Return a file with all e-mails from optOut == true users |
+
